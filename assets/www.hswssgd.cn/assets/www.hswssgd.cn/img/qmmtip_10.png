@@ -9,7 +9,11 @@ Thank you very much!</p>
 <table>
 <tr>
 <td>URL:</td>
+<<<<<<< HEAD
 <td>http://www.hswss.cn/assets/www.hswss.cn/img/qmmtip_10.png</td>
+=======
+<td>http://www.hswssgd.cn/assets/www.hswssgd.cn/img/qmmtip_10.png</td>
+>>>>>>> d2ce9ba (test)
 </tr>
 <tr>
 <td>Server:</td>

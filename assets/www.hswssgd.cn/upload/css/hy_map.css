@@ -31,7 +31,11 @@
 	.mob-show {
 		display: none;
 	}
+<<<<<<< HEAD
 	/*ï¿½ï¿½|ï¿½Cï¿½ï¿½?ï¿½ï¿½*/
+=======
+	/*¨¦|¨C¨¦?¦Ì*/
+>>>>>>> d2ce9ba (test)
 	
 	.index .part4 {
 		width: 100%;
@@ -74,7 +78,11 @@
 	}
 	
 	.index .part4 .num p {
+<<<<<<< HEAD
 		font-family: '???ï¿½ï¿½?ï¿½ï¿½ï¿½ï¿½?ï¿½ï¿½ï¿½ï¿½?ï¿½ï¿½';
+=======
+		font-family: '???¨¨?¡¥¨¦?¡­¨¦?¡®';
+>>>>>>> d2ce9ba (test)
 		font-size: 28px;
 	}
 	
@@ -82,7 +90,11 @@
 position: absolute;
     top: 0;
     left: 0;
+<<<<<<< HEAD
     background: url(../../assets/www.hswss.cn/img/hr_ditu.png) no-repeat center/contain;
+=======
+    background: url(../../assets/www.hswssgd.cn/img/hr_ditu.png) no-repeat center/contain;
+>>>>>>> d2ce9ba (test)
     width: 100%;
     height: 548px;
     background-size: contain;
@@ -113,7 +125,11 @@ position: absolute;
 	}
 	
 	.map-box .small-box .small-map {
+<<<<<<< HEAD
 		background: url(../../assets/www.hswss.cn/img/qmmtip_11.png) no-repeat;
+=======
+		background: url(../../assets/www.hswssgd.cn/img/qmmtip_11.png) no-repeat;
+>>>>>>> d2ce9ba (test)
 		width: 196;
 		height: 85px;
 		background-size: 100%;
@@ -122,7 +138,11 @@ position: absolute;
 	}
 	
 	.map-box .small-box .small-map.active {
+<<<<<<< HEAD
 		background: url(../../assets/www.hswss.cn/img/qmmtip_10.png) no-repeat;
+=======
+		background: url(../../assets/www.hswssgd.cn/img/qmmtip_10.png) no-repeat;
+>>>>>>> d2ce9ba (test)
 	}
 	
 	.map-box .point {
@@ -174,7 +194,11 @@ position: absolute;
 		line-height: 26px;
 	}
 	/* .map-box .china-map .point:nth-child(10), .map-box .world-map .point:nth-child(5) {animation: shining 1s infinite;} */
+<<<<<<< HEAD
 	/*qmm????ï¿½ï¿½1*/
+=======
+	/*qmm????¡±1*/
+>>>>>>> d2ce9ba (test)
 	/*.index .part4 .tit*/
 	
 	.qmmMapInfo {
@@ -253,7 +277,11 @@ position: absolute;
 	}
 	
 	.map-box .point.left .line {
+<<<<<<< HEAD
 		background: url(../../assets/www.hswss.cn/img/index_part4_line_l.png) no-repeat 0 31px;
+=======
+		background: url(../../assets/www.hswssgd.cn/img/index_part4_line_l.png) no-repeat 0 31px;
+>>>>>>> d2ce9ba (test)
 		;
 		left: -49px;
 	}
@@ -269,21 +297,33 @@ position: absolute;
 	}
 	
 	.map-box .point .info .i1 {
+<<<<<<< HEAD
 		background: url(../../assets/www.hswss.cn/img/map_info_icon1.gif) no-repeat;
+=======
+		background: url(../../assets/www.hswssgd.cn/img/map_info_icon1.gif) no-repeat;
+>>>>>>> d2ce9ba (test)
 		background-size: 100% 100%;
 		top: 0;
 		left: 0;
 	}
 	
 	.map-box .point .info .i2 {
+<<<<<<< HEAD
 		background: url(../../assets/www.hswss.cn/img/map_info_icon2.gif) no-repeat;
+=======
+		background: url(../../assets/www.hswssgd.cn/img/map_info_icon2.gif) no-repeat;
+>>>>>>> d2ce9ba (test)
 		background-size: 100% 100%;
 		top: 0;
 		right: 0;
 	}
 	
 	.map-box .point .info .i3 {
+<<<<<<< HEAD
 		background: url(../../assets/www.hswss.cn/img/map_info_icon1.gif) no-repeat;
+=======
+		background: url(../../assets/www.hswssgd.cn/img/map_info_icon1.gif) no-repeat;
+>>>>>>> d2ce9ba (test)
 		background-size: 100% 100%;
 		bottom: 0;
 		right: 0;
@@ -291,7 +331,11 @@ position: absolute;
 	}
 	
 	.map-box .point .info .i4 {
+<<<<<<< HEAD
 		background: url(../../assets/www.hswss.cn/img/map_info_icon2.gif) no-repeat;
+=======
+		background: url(../../assets/www.hswssgd.cn/img/map_info_icon2.gif) no-repeat;
+>>>>>>> d2ce9ba (test)
 		background-size: 100% 100%;
 		bottom: 0;
 		left: 0;
@@ -382,7 +426,11 @@ position: absolute;
 	.qmm_small-box .small-map {
 		width: 100%;
 		height: 100%;
+<<<<<<< HEAD
 		background: url(../../assets/www.hswss.cn/img/qmmtip_03.png);
+=======
+		background: url(../../assets/www.hswssgd.cn/img/qmmtip_03.png);
+>>>>>>> d2ce9ba (test)
 		background-size: 100%;
 	}
 
